@@ -3,7 +3,7 @@
 # Welcome to my Base 👋
 
  🔭 I’m currently working on <a href="https://github.com/ChiragChrg/DaysBeyond" target="_blank">DaysBeyond<a/>. <br>
- 🌱 I’m currently learning Java, Asp. <br>
+ 🌱 I’m currently learning Java, PHP. <br>
   Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.
 
 ## 
