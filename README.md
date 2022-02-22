@@ -14,6 +14,8 @@
 ![statscard](https://github-readme-chrg.vercel.app/api?username=ChiragChrg&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ## Languages and Tools
+ 
+ ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 <div style="display: flex; justify-content: center;">
       <img
