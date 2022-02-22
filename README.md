@@ -15,7 +15,7 @@
 
 ## Languages and Tools
  
- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png "HTML")
 
 <div style="display: flex; justify-content: center;">
       <img
