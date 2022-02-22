@@ -14,7 +14,7 @@
 ![statscard](https://github-readme-chrg.vercel.app/api?username=ChiragChrg&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ## Languages and Tools
-<div style="display: flex; justify-content: center; background: white !important;">
+<div style="display: flex; justify-content: center; align-items: center; padding: 1em;">
       <img
         alt="HTML5"
         title="HTML"
@@ -73,7 +73,7 @@
       />
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; padding: 1em;">
       <img
         alt="Visual Studio Code"
         title="VS Code"
@@ -97,7 +97,7 @@
       />
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; padding: 1em;">
       <img
         alt="MySQL"
         title="MySQL"
