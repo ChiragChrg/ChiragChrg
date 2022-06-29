@@ -7,7 +7,7 @@
   Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.
 
 ## 
-[![Top Langs](https://github-readme-chrg.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Stats
