@@ -2,8 +2,8 @@
 
 # Welcome to My Realm 👋
 
- 🔭 I’m currently working on <a href="https://github.com/ChiragChrg/DaysBeyond" target="_blank">DaysBeyond<a/>. <br>
- 🌱 I’m currently learning Java, PHP. <br>
+ 🔭 I’m currently working on <a href="https://github.com/Rajath-gatty/srinivas-exam-manager" target="_blank">Srinivas Exam Manager<a/>. <br>
+ 🌱 I’m currently learning Node.Js. <br>
   Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.
 
 ## 
