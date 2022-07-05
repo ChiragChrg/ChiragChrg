@@ -2,7 +2,7 @@
 
 # Welcome to My Realm 👋
 
- 🔭 I’m currently working on <a href="https://github.com/Rajath-gatty/srinivas-exam-manager" target="_blank">Srinivas Exam Manager<a/>. <br>
+ 🔭 I’m currently developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager<a/>. <br>
  🌱 I’m currently learning Node.Js. <br>
   Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.
 
