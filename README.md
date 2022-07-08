@@ -1,9 +1,9 @@
 <div style="display: flex; flex-direction: column; text-align: center;"> 
-### Hi there 👋, I'm Chirag 😎
-#### I am prospective Full stack developer
-I develop interesting and exciting projects. 🙌
+### Hi there 👋, I'm Chirag 😎 <br/>
+#### I am prospective Full stack developer <br/>
+I develop interesting and exciting projects. 🙌 <br/>
 
-Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL 
+Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
 
 - 🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager<a/>. 
 - 🌱 I’m currently learning Node JS / Express 
