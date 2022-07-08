@@ -1,6 +1,7 @@
 <div style="display: flex; flex-direction: column; text-align: center;"> 
-### Hi there 👋, I'm Chirag 😎 <br/>
-#### I am prospective Full stack developer <br/>
+      
+### Hi there 👋, I'm Chirag 😎
+#### I am prospective Full stack developer
 I develop interesting and exciting projects. 🙌 <br/>
 
 Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
