@@ -1,11 +1,4 @@
-<div style="display: flex; flex-direction: column; text-align: center;">
-
-# Welcome to My Realm 👋
-
- 🔭 I’m currently developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager<a/>. <br>
- 🌱 I’m currently learning Node.Js. <br>
-  
-  
+<div style="display: flex; flex-direction: column; text-align: center;"> 
 ### Hi there 👋, I'm Chirag 😎
 #### I am prospective Full stack developer
 I develop interesting and exciting projects. 🙌
