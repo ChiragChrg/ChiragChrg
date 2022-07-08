@@ -13,7 +13,7 @@ Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
 
 ![Profile views](https://gpvc.arturio.dev/ChiragChrg)  
 
-## 
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
