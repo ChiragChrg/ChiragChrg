@@ -9,7 +9,7 @@ Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
 - 🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager<a/>. 
 - 🌱 I’m currently learning Node JS / Express 
 - 🌐 Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.
-- 📫 How to reach me: 👉 Mail me on <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">CHIRUCHIRAG2001@GMAIL.COM<a/>. 
+- 📫 How to reach me: <a href="#" target="_blank">ChiruChirag2001@gmail.com<a/> 
 
 ![Profile views](https://gpvc.arturio.dev/ChiragChrg)  
 
