@@ -4,9 +4,9 @@
 
  🔭 I’m currently developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager<a/>. <br>
  🌱 I’m currently learning Node.Js. <br>
-  Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.
   
-  ### Hi there 👋, I'm Chirag 😎
+  
+### Hi there 👋, I'm Chirag 😎
 #### I am prospective Full stack developer
 I develop interesting and exciting projects. 🙌
 
@@ -14,14 +14,11 @@ Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
 
 - 🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager<a/>. 
 - 🌱 I’m currently learning Node JS / Express 
+- 🌐 Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.
 - 📫 How to reach me: 👉 Mail me on <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">CHIRUCHIRAG2001@GMAIL.COM<a/>. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChiragChrg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chiragchrg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ChiragChrg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ChiragChrg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ChiragChrg1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devbase.netlify.app/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChiragChrg)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ChiragChrg)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChiragChrg)  
 
 ![Profile views](https://gpvc.arturio.dev/ChiragChrg)  
 
