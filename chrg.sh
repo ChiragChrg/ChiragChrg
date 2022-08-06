@@ -9,8 +9,8 @@ sudo apt-get install cgpt
 sudo apt-get install gparted
 sudo apt-get install grub-customizer
 sudo gparted
-sudo figlet -c "SUBSCRIBE TO"
-sudo figlet -c "How To Guys"
+sudo figlet -c "YOOO GAANJAA"
+sudo figlet -c "CHRG"
 sudo echo https://www.youtube.com/c/HowToGuys
 echo "Please enter partition name for Chrome OS multi boot install. For e.g. sda5";
 read partition
