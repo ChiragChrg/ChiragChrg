@@ -1,7 +1,7 @@
 <div align="center"> 
       
 <h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">A Passionate Fullstack Web Developer</h3>
 <h3 align="center">I develop interesting and exciting projects. 🙌</h3>
 
 Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
