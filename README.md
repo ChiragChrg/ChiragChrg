@@ -1,8 +1,8 @@
 <div style="display: flex; flex-direction: column; text-align: center;"> 
       
-### Hi there 👋, I'm Chirag 😎
-#### I am prospective Full stack developer
-I develop interesting and exciting projects. 🙌 <br/>
+<h1 align="center">Hi 👋, I'm Chirag</h1>
+<h2 align="center">A passionate Fullstack developer</h2>
+<h3 align="center">I develop interesting and exciting projects. 🙌</h3>
 
 Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
 
@@ -19,6 +19,8 @@ Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
 
 ## Stats
 ![statscard](https://github-readme-stats.vercel.app/api?username=ChiragChrg&show_icons=true&theme=tokyonight&include_all_commits=true)
+      
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragchrg&" alt="chiragchrg" /></p>
 
 ## Languages and Tools
 <div style="display: flex; justify-content: center; align-items: center; padding: 1em;">
