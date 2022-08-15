@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; text-align: center;"> 
+<div align="center"> 
       
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h2 align="center">A passionate Fullstack developer</h2>
