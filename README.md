@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A Passionate Fullstack Web Developer</h3>
 <h3 align="center">I develop interesting and exciting projects. 🙌</h3>
-
-Skills: HTML / CSS / JavaScript / React JS / Node JS / MySQL
 <hr/>
 <p>🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager.<a/></p>
 <p>🌱 I’m currently learning Node JS / Express.</p>
