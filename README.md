@@ -4,12 +4,13 @@
 <h3 align="center">A Passionate Fullstack Web Developer</h3>
 <h3 align="center">I develop interesting and exciting projects. 🙌</h3>
 <br/>
+      
+![Profile views](https://gpvc.arturio.dev/ChiragChrg)  
+
 <p>🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager.<a/></p>
 <p>🌱 I’m currently learning Node JS / Express.</p>
 <p>🌐 Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.</p>
 <p>📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chiruchirag2001@gmail.com" target="_blank">Mail Me<a/> at chiruchirag2001@gmail.com</p>
-
-![Profile views](https://gpvc.arturio.dev/ChiragChrg)  
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
