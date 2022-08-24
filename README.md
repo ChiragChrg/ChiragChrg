@@ -6,6 +6,15 @@
 
 <br/>
 
+<div align="center"> 
+<p>🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager.<a/></p>
+<p>🌱 I’m currently learning Node JS / Express.</p>
+<p>🌐 Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.</p>
+<p>📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chiruchirag2001@gmail.com" target="_blank">Mail Me<a/> at chiruchirag2001@gmail.com</p>
+</div>
+
+<br>
+
 <div align="center">
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ChiragChrg) -->
@@ -14,13 +23,6 @@
 <a href="https://www.facebook.com/ChiragChrg"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/chiragchrg/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
 <a href="https://devbase.netlify.app/"><img src="https://img.shields.io/static/v1?label=&message=Devbase&color=000&style=for-the-badge&logo=CodersRank&logoColor=fff" alt="Devbase"></a>
-</div>
-
-<div align="center"> 
-<p>🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager.<a/></p>
-<p>🌱 I’m currently learning Node JS / Express.</p>
-<p>🌐 Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.</p>
-<p>📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chiruchirag2001@gmail.com" target="_blank">Mail Me<a/> at chiruchirag2001@gmail.com</p>
 </div>
 
 <div align="center">
