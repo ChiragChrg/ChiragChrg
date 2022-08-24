@@ -2,17 +2,9 @@
 <h1>Hi 👋, I'm Chirag</h1>
 <h3>A Passionate Fullstack Web Developer</h3>
 <h3>I develop interesting and exciting projects. 🙌</h3>
+</div>
+
 <br/>
-</div>
-
-<div>
-<p>🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager.<a/></p>
-<p>🌱 I’m currently learning Node JS / Express.</p>
-<p>🌐 Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.</p>
-<p>📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chiruchirag2001@gmail.com" target="_blank">Mail Me<a/> at chiruchirag2001@gmail.com</p>
-</div>
-
-<br>
 
 <div align="center">
 
@@ -22,6 +14,15 @@
 <a href="https://www.facebook.com/ChiragChrg"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"></a>
 <a href="https://twitter.com/ChiragChrg1"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/ChiragChrg"><img src="https://img.shields.io/static/v1?label=&message=Devbase&color=000&style=for-the-badge&logo=CodersRank&logoColor=fff" alt="Devbase"></a>
+</div>
+
+<br>
+
+<div align="center"> 
+<p>🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager.<a/></p>
+<p>🌱 I’m currently learning Node JS / Express.</p>
+<p>🌐 Check my projects at <a href="https://devbase.netlify.app/" target="_blank">DevBase<a/>.</p>
+<p>📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chiruchirag2001@gmail.com" target="_blank">Mail Me<a/> at chiruchirag2001@gmail.com</p>
 </div>
 
 <br>
