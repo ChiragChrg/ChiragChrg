@@ -8,8 +8,8 @@
 
 <div align="center">
 
-![Profile views](https://gpvc.arturio.dev/ChiragChrg)
-
+<!-- ![Profile views](https://gpvc.arturio.dev/ChiragChrg) -->
+![](https://komarev.com/ghpvc/?username=ChiragChrg&label=PROFILE+VIEWS&style=for-the-badge)
 <a href="https://twitter.com/ChiragChrg1"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter"></a>
 <a href="https://www.facebook.com/ChiragChrg"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/chiragchrg/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
