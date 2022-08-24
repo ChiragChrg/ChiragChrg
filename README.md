@@ -19,10 +19,10 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ChiragChrg) -->
 ![](https://komarev.com/ghpvc/?username=ChiragChrg&label=PROFILE+VIEWS&style=for-the-badge)
-<a href="https://twitter.com/ChiragChrg1"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter"></a>
-<a href="https://www.facebook.com/ChiragChrg"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/chiragchrg/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
-<a href="https://devbase.netlify.app/"><img src="https://img.shields.io/static/v1?label=&message=Devbase&color=000&style=for-the-badge&logo=CodersRank&logoColor=fff" alt="Devbase"></a>
+<a href="https://twitter.com/ChiragChrg1" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter"></a>
+<a href="https://www.facebook.com/ChiragChrg" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/chiragchrg/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
+<a href="https://devbase.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Devbase&color=000&style=for-the-badge&logo=CodersRank&logoColor=fff" alt="Devbase"></a>
 </div>
 
 <div align="center">
