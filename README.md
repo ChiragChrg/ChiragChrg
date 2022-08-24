@@ -16,8 +16,6 @@
 <a href="https://devbase.netlify.app/"><img src="https://img.shields.io/static/v1?label=&message=Devbase&color=000&style=for-the-badge&logo=CodersRank&logoColor=fff" alt="Devbase"></a>
 </div>
 
-<br>
-
 <div align="center"> 
 <p>🔭 I’m currently working on  developing <a href="https://srinivas-exam-manager.netlify.app/" target="_blank">Srinivas Exam Manager.<a/></p>
 <p>🌱 I’m currently learning Node JS / Express.</p>
@@ -25,15 +23,14 @@
 <p>📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chiruchirag2001@gmail.com" target="_blank">Mail Me<a/> at chiruchirag2001@gmail.com</p>
 </div>
 
-<br>
+<div align="center">
+<h1 align="left">Statistics</h1>
 
-# Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![statscard](https://github-readme-stats.vercel.app/api?username=ChiragChrg&show_icons=true&theme=tokyonight&include_all_commits=true) 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragchrg&" alt="chiragchrg" /></p>
-
-<br>
+</div>
 
 <div align="center">
 <h1 align="left">Languages & Tools</h1>
