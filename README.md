@@ -60,3 +60,5 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
 <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/github.svg" width="40" height="40" title="GitHub"/>
 </div>
+
+![snake gif](https://github.com/ChiragChrg/ChiragChrg/blob/output/github-contribution-grid-snake.svg)
