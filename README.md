@@ -61,6 +61,6 @@
 <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/github.svg" width="40" height="40" title="GitHub"/>
 </div>
 
-### Snake Contribution :
+## Snake Contribution :
 
 ![snake gif](https://github.com/ChiragChrg/ChiragChrg/blob/output/github-contribution-grid-snake.svg)
