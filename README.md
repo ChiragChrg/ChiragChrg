@@ -23,6 +23,7 @@
 <a href="https://www.facebook.com/ChiragChrg" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/chiragchrg/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
 <a href="https://devbase.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Devbase&color=000&style=for-the-badge&logo=CodersRank&logoColor=fff" alt="Devbase"></a>
+<a href="https://www.google.com/search?q=%22chiragchrg%22" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Google&color=fff&style=for-the-badge&logo=google" alt="Google"></a>
 </div>
 
 <div align="center">
