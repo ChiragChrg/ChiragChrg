@@ -28,8 +28,8 @@
 <!-- <a href="https://devbase.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Devbase&color=000&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwODAgMTA4MCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiPgoJPHN0eWxlPgogICAgcGF0aCB7CiAgICAgIGZpbGw6ICMwMDA7CiAgICB9CiAgICBAbWVkaWEgKHByZWZlcnMtY29sb3Itc2NoZW1lOiBkYXJrKSB7CiAgICAgIHBhdGggewogICAgICAgIGZpbGw6ICNmZmY7CiAgICAgIH0KICAgIH0KICA8L3N0eWxlPgoJPHBhdGggZD0ibTEwMTQgNTQzbC0yODUgMjg4IDEzOC0yODgtMTQ0LTI5NHoiLz4KCTxwYXRoIGQ9Im02NiA1MzdsMjg1LTI4OC0xMzggMjg4IDE0NCAyOTR6Ii8%2BCgk8cGF0aCBkPSJtNjExLjkgMTI4LjVsLTk2LjIgMzY5LjMgMTQ4LjItNjQuNS0xMTAuOCA0NDMuNyA0Ni4yLTUtODguNyAxMDcuOC00OC4yLTEzMCA0NC41IDIwLjYgNDcuNy0yOTQuMi0xNDguMSA4My4zIDkzLjUtNTQ1LjR6Ii8%2BCjwvc3ZnPg%3D%3D" alt="Devbase"></a> -->
 </div>
 
+## Statistics
 <div align="center">
-<h1 align="left">Statistics</h1>
 
 [![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,31 +39,60 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragchrg&theme=transparent" alt="chiragchrg" /></p> -->
 </div>
 
-<div align="center">
-<h1 align="left">Languages & Tools</h1>
-<h3>Programming Languages :</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40" title="PHP"/>
+## Languages & Tools
 
-<h3>Web Development :</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React JS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node JS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
-
-<h3>Software & Tools :</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" title="Photoshop"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" title="Illustrator"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" title="Blender"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" title="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" height="40" title="Terminal"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
-<img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/github.svg" width="40" height="40" title="GitHub"/>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <div style="display: flex; align-items: center; flex-direction: column;">
+      <h3>Front-End()</h3>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 2em;">
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/html.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/css.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/javascript.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/typescript.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/reactjs.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/nextjs.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/tailwind.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/redux.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/zustand.webp" width="40" height="40" title="GitHub"/>
+      </div>
+  </div>
+  
+  <div style="display: flex; align-items: center; flex-direction: column;">
+      <h3>Back-End()</h3>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 2em;">
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/nodejs.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/express.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/mongodb.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/mysql.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/php.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/nextauth.svg" width="40" height="40" title="GitHub"/>
+      </div>
+  </div>
+  
+  <div style="display: flex; align-items: center; flex-direction: column;">
+      <h3>Programming()</h3>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 2em;">
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/javascript.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/python.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/cpp.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/java.svg" width="40" height="40" title="GitHub"/>
+      </div>
+  </div>
+  
+  <div style="display: flex; align-items: center; flex-direction: column;">
+      <h3>Tech & Tools()</h3>
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 2em;">
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/vitejs.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/socketio.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/npm.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/git.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/github.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/netlify.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/vercel.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/vscode.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/figma.svg" width="40" height="40" title="GitHub"/>
+      </div>
+  </div>
 </div>
 
 ## Snake Contribution :
