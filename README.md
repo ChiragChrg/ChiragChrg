@@ -41,11 +41,9 @@
 </div>
 
 ## Languages & Tools
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <div style="display: flex; align-items: center; flex-direction: column;">
+<div align="center">
       <h3>Front-End()</h3>
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 2em;">
+      <div>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/html.svg" width="40" height="40" title="HTML"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/css.svg" width="40" height="40" title="CSS"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/javascript.svg" width="40" height="40" title="JavaScript"/>
@@ -58,9 +56,9 @@
       </div>
   </div>
   
-  <div style="display: flex; align-items: center; flex-direction: column;">
+  <div align="center">
       <h3>Back-End()</h3>
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 2em;">
+      <div>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/nodejs.svg" width="40" height="40" title="NodeJS"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/express.svg" width="40" height="40" title="Express"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/mongodb.svg" width="40" height="40" title="MongoDB"/>
@@ -70,9 +68,9 @@
       </div>
   </div>
   
-  <div style="display: flex; align-items: center; flex-direction: column;">
+  <div align="center">
       <h3>Programming()</h3>
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 2em;">
+      <div>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/javascript.svg" width="40" height="40" title="JavaScript"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/python.svg" width="40" height="40" title="Python"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/cpp.svg" width="40" height="40" title="C++"/>
@@ -80,9 +78,9 @@
       </div>
   </div>
   
-  <div style="display: flex; align-items: center; flex-direction: column;">
+  <div align="center">
       <h3>Tech & Tools()</h3>
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 2em;">
+      <div>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/vitejs.svg" width="40" height="40" title="ViteJS"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/socketio.svg" width="40" height="40" title="SocketIO"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/npm.svg" width="40" height="40" title="NPM"/>
@@ -93,7 +91,6 @@
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/vscode.svg" width="40" height="40" title="VScode"/>
           <img  src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/figma.svg" width="40" height="40" title="Figma"/>
       </div>
-  </div>
 </div>
 
 ## Snake Contribution :
