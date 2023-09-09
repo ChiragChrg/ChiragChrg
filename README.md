@@ -34,10 +34,10 @@
 
 [![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true) 
+![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true) 
+[![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChiragChrg&theme=transparent)](https://git.io/streak-stats)
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragchrg&theme=transparent" alt="chiragchrg" /></p> -->
 </div>
 
 ## Languages & Tools
