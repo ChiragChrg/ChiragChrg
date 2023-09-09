@@ -34,8 +34,7 @@
 
 [![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true) 
-[![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true)
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChiragChrg&theme=transparent)](https://git.io/streak-stats)
 </div>
