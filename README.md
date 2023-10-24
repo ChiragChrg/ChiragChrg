@@ -32,7 +32,7 @@
 ## Statistics
 <div align="center">
 
-[![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=transparent)
 
 ![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true)
   
