@@ -36,7 +36,7 @@
 
 ![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true)
   
-[GitHub Streak](https://readme-streak-stats-tau.vercel.app?user=ChiragChrg&theme=transparent)
+![GitHub Streak](https://readme-streak-stats-tau.vercel.app?user=ChiragChrg&theme=transparent)
 </div>
 
 ## Languages & Tools
