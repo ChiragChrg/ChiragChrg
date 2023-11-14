@@ -1,20 +1,8 @@
+<a href="https://chiragchrg.netlify.app/" target="_blank" title="Portfolio">
+ <img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/Portfolio_Crop_Img.webp" width="100%" height="auto" />
+</a>
 
-<div align="center"> 
-<h1>Hi 👋, I'm Chirag</h1>
-<h3>A Passionate Fullstack Web Developer</h3>
-<h3>I develop interesting and exciting projects. 🙌</h3>
-</div>
-
-<br/>
-
-<div align="center"> 
-<p>🔭 I’m currently working on  developing <a href="https://github.com/ChiragChrg/arms-v3" target="_blank">ARMS | Academic Resource Management System.<a/></p>
-<p>🌱 I’m currently learning Python.</p>
-<p>🌐 Check my projects at <a href="https://chiragchrg.netlify.app/" target="_blank">My Portfolio<a/>.</p>
-<p>📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chiruchirag2001@gmail.com" target="_blank">Mail Me<a/> at chiruchirag2001@gmail.com</p>
-</div>
-
-<br>
+<hr/>
 
 <div align="center">
 
