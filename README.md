@@ -1,5 +1,5 @@
-<a href="https://chiragchrg.netlify.app/" target="_blank" title="Portfolio">
- <img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/Portfolio_Crop_Img.webp" width="100%" height="auto" />
+<a href="https://chiragchrg.netlify.app/" target="_blank" title="My Portfolio">
+ <img src="./Portfolio_Crop_Img.webp" width="100%" height="auto" />
 </a>
 
 <hr/>
