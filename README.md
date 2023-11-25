@@ -1,4 +1,4 @@
-<a href="https://chiragchrg.netlify.app/" target="_blank" title="My Portfolio">
+<a href="https://chiragchrg.netlify.app/" target="_blank" title="My Portfolio" alt="My Portfolio">
  <img src="./Portfolio_Crop_Img.webp" width="100%" height="auto" />
 </a>
 
