@@ -26,7 +26,7 @@
   
 ![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=ChiragChrg&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff)
 
-![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=ChiragChrg\&layout=compact)
+![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=ChiragChrg&layout=compact&theme=transparent)
 </div>
 
 ## Languages & Tools
