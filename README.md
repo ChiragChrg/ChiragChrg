@@ -24,7 +24,7 @@
 
 ![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true)
   
-![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=ChiragChrg&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff)
+![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=ChiragChrg&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff&disable_animations=true)
 
 <!--
 ![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=ChiragChrg&layout=compact&theme=transparent)
