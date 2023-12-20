@@ -20,9 +20,9 @@
 ## Statistics
 <div align="center">
 
-![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=transparent)
+![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ChiragChrg&layout=compact&theme=transparent&disable_animations=true)
 
-![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true)
+![Statscard](https://git-stats-plum.vercel.app/api?username=ChiragChrg&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
   
 ![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=ChiragChrg&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff&disable_animations=true)
 
